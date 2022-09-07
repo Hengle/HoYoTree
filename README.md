@@ -1,6 +1,6 @@
 # HoYoTree
 
-A Collection of HoYo games type tree definitions.
+A collection of HoYo games type tree definitions.
 _____________________________________________________________________________________________________________________________
 Special Thank to:
 - DaZombieKiller: [TypeTreeDumper](https://github.com/DaZombieKiller/TypeTreeDumper) original tool.
